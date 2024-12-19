@@ -1,3 +1,6 @@
 [submodule "angular-ngrx"]
 	path = angular-ngrx
 	url = git@github.com:shivamsharma01/angular-ngrx.git
+[submodule "ngrx-data"]
+	path = ngrx-data
+	url = git@github.com:shivamsharma01/angular-ngrx-data.git
